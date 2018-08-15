@@ -142,12 +142,12 @@ nav.navbar.sticky {
   }
 }
 
-/* services */
-.services .box {
+/* skills */
+.skills .box {
   margin-top: 20px;
 }
 
-.services .icon {
+.skills .icon {
   font-size: 50px;
   color: #262626;
 }
