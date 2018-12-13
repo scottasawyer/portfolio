@@ -176,6 +176,18 @@ nav.navbar.sticky {
   color: #29f844;
 }
 
+.fa-angular {
+  color: tomato;
+}
+
+.fa-react {
+  color: #00d8ff;
+}
+
+.fa-chevron-circle-down {
+  color: white;
+}
+
 
 @media (max-width: 767.98px) {
   .content {
